@@ -9,3 +9,5 @@ To showcase clear commit messages and a clean main branch history.
 ## Author
 
 Kondeti Tarun Tej
+
+update the readme
